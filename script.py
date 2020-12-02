@@ -1,7 +1,7 @@
 import requests
 
 CITIES = ('Лондон', 'Шереметьево', 'Череповец')
-PARAMS = {'nTqu':'', 'lang': 'ru'}
+PARAMS = {'nTqm':'', 'lang': 'ru'}
 
 url_template = 'http://wttr.in/{}'
 
