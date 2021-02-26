@@ -15,6 +15,9 @@
 Для запуска библиотеки у вас уже должен быть установлен [Python 3](https://www.python.org/downloads/release/python-379/).
 
 - Скачайте код.
-- Запустите скрипт командой `python script.py`.
+- Запустите скрипт командой:
+```
+python script.py
+```
 
 
